@@ -81,7 +81,7 @@
     "istanbul-lib-hook": "~1.0.7",
     "istanbul-lib-instrument": "~1.7.3",
     "istanbul-lib-report": "~1.1.1",
-    "istanbul-lib-source-maps": "~1.2.1",
+    "istanbul-lib-source-maps": "~1.2.2",
     "istanbul-reports": "~1.1.1",
     "lodash": "~4.17.4",
     "mime-types": "~2.1.15",
